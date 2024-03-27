@@ -5,4 +5,5 @@
 [![Twitter/x](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FroydOfome)
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmaltaa&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmaltaa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
